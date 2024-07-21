@@ -17,7 +17,7 @@ const speciesJson = {
     }
   },
   "abaddon": {
-    "speciesDisplay": "アバドン",
+    "speciesDisplay": "abaddon",
     "stage": {
       "hatch": {
         "forms": {
